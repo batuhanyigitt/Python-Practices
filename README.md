@@ -1,2 +1,2 @@
-# Python-BlackJack-Project
-This is Python blackjack project just for fun.
+# Python-Practices
+This is Python Practices repo just for fun.
