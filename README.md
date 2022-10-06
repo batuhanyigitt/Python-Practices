@@ -1,6 +1,7 @@
 # Python-Practices
 This is Python Practices repo just for fun.
 
-This website is pretty usefull for fundamentals:
+This websites is pretty usefull for fundamentals:
 
-https://www.w3schools.com/python/
+1- https://www.w3schools.com/python/
+2- https://www.learnpython.org/
